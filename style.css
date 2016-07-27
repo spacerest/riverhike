@@ -1,0 +1,17 @@
+body {
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+img {
+	border: 5px solid black;
+}
+
+.time {
+	font-style: italic;
+}
