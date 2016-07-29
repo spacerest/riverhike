@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	max-width: 1000px;
 	margin: auto;
@@ -8,10 +12,35 @@ h1 {
 	font-size: 40px;
 }
 
-img {
+.map {
 	border: 5px solid black;
+}
+
+/*table,*/
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
 }
 
 .time {
 	font-style: italic;
+}
+
+.thoughts,
+.stats {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.note {
+	flex-basis: 40%;
+	margin: 20px;
+}
+
+.banner {
+	max-width: 1000px;
+	width: auto;
+	height: auto;
 }
