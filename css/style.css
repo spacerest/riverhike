@@ -30,6 +30,12 @@ hr {
 	border: 5px solid black;
 }
 
+.intro {
+	color: gray;
+	font-size: 0.9em;
+	/*text-align: justify;*/
+}
+
 th,
 td {
     border: 1px solid black;
@@ -59,7 +65,7 @@ td {
 	margin: 20px;
 	padding: 30px;
 	border: 2px solid black;
-	background-color: #f9f9f9;
+	background-color: #f9f9f9; /*light gray*/
 	text-align: justify;
 }
 
@@ -84,8 +90,20 @@ td {
 	height: auto;
 }
 
-.acknowledgments {
+footer {
+	display: flex;
+	justify-content: space-around;
+}
+
+.acknowledgments,
+.credentials {
 	font-size: 0.7em;
+	color: gray;
+}
+
+.acknowledgments a,
+.credentials a {
+	color: lightgray;
 }
 
 td img {
