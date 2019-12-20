@@ -1,113 +1,29 @@
-* {
-	box-sizing: border-box;
-}
-
 @font-face {
 	font-family: "Pokemon";
 	src: url("../font/pokemon_gb.ttf");
 }
 
 body {
-	max-width: 1000px;
-	margin: auto;
+	font-family: Pokemon, Verdana, Tahoma, monospace;
+}
+
+.card {  /* override Bootstrap card border for more original GB Pkmn style */
+	border: 6px double black;
+}
+
+ul {
+	list-style-image: url("../img/pokeball-bullet-point.png");
+}
+
+.jumbotron {  /* general code to allow for full-width background images with text on top (hero) */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 	text-align: center;
+	color: white;
 }
 
-h1,
-h3 {
-	font-family: Pokemon, Verdana, Tahoma;
-}
-
-h1 {
-	font-size: 40px;
-}
-
-hr {
-	margin: 50px;
-}
-
-.map {
-	border: 5px solid black;
-}
-
-.intro {
-	color: gray;
-	font-size: 0.9em;
-	/*text-align: justify;*/
-}
-
-th,
-td {
-    border: 1px solid black;
-    padding: 5px;
-}
-
-.time {
-	font-style: italic;
-}
-
-.thoughts,
-.stats {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	align-items: center;
-}
-
-.catch-list,
-.calculation,
-.sources {
-	list-style-type: none;
-	text-align: left;
-}
-
-.note {
-	flex-basis: 40%;
-	margin: 20px;
-	padding: 30px;
-	border: 2px solid black;
-	background-color: #f9f9f9; /*light gray*/
-	text-align: justify;
-}
-
-.places {
-	text-align: left;
-}
-
-.phone-screenshot {
-	max-width: 100%;
-	height: 400px;
-}
-
-.photo {
-	max-width: 100%;
-	height: 250px;
-	float: center;
-}
-
-.banner {
-	max-width: 1000px;
-	width: auto;
-	height: auto;
-}
-
-footer {
-	display: flex;
-	justify-content: space-around;
-}
-
-.acknowledgments,
-.credentials {
-	font-size: 0.7em;
-	color: gray;
-}
-
-.acknowledgments a,
-.credentials a {
-	color: lightgray;
-}
-
-td img {
-	max-width: 30px;
-	height: auto;
+/* individual section background images below */
+.day-3 {
+	background-image: url("../img/25_percent/mori_point_whales.jpg");
 }
