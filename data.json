@@ -164,12 +164,12 @@
         {"text": "Today I also started using the Pokéradar - in order to then walk and look for a specific mon. It was fun! I got a Kabuto like that, and the funnest part was pedaling fast towards a Kingler... I knew my chances to be there on time were slim, and indeed it had vanished before I arrived. Hm... I was thinking that this travel is so far a very slow one, and maybe it is actually a Pokémon travel : )"},
         {"text": "I had an intense battle with a Butterfree in front of the Oracle fountain (and their hovering Katamaran). Butterfree had 500something CP and was very stubborn about going to live inside a ball. I offered him loads of them. Different ones. Red-white ones, blue-red ones, and even quite a bunch of black-yellow ones! He checked a few of them out from the inside, but declined every single time. In the end I ran out of offers and he just disappeard. Belly full of Razzberries.\nThere is no such thing as a free Butterfree."},
         {
-          "text": "",
+          "text": "Caught: 0",
           "image": "butterfree_s.jpg"
         },
         {
           "text": "",
-          "image": "noball.png"
+          "image": "noball.jpg"
         },
         {"text": "<- Consequences of overspending..."},
         {"text": "A stopover in a Starbucks brought me to witness the little circle of old men meeting there. When one plus arrived I tried to make space, and so we got to talk a bit. Turns out three of five spoke German. Before I left I got a Starbucks gift card from one of the men... \"So that you remember this place\" : )"},
@@ -202,20 +202,77 @@
           "header": ["Image", "Pokémon", "CP"],
           "content": [
             {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
+              "image": ["weedle.png"],
+              "pokemon": "Weedle",
+              "cp": "233"
+            },
+            {
+              "image": ["paras.png"],
+              "pokemon": "Paras",
+              "cp": "502"
+            },
+            {
+              "image": ["voltorb.png"],
+              "pokemon": "Voltorb",
+              "cp": "467"
+            },
+            {
+              "image": ["weedle.png"],
+              "pokemon": "Weedle",
+              "cp": "234"
+            },
+            {
+              "image": ["weedle.png"],
+              "pokemon": "Weedle",
+              "cp": "237"
             }
           ]
         },
         "catches": {
-          "title": "",
-          "header": [],
+          "title": "Catches",
+          "header": ["Tinyimage", "Pokémon", "CP", "Where?", "Caught?"],
           "content": [
             {
-              "image": [],
-              "pokemon": "",
-              "notes": ""
+              "image": ["poliwag.png"],
+              "pokemon": "Poliwag",
+              "cp": "233",
+              "location": "Redwood Houseboat Harbor",
+              "notes": "Yep!"
+            },
+            {
+              "image": ["kabuto.png"],
+              "pokemon": "Kabuto",
+              "cp": "560",
+              "location": "Redwood Houseboat Harbor",
+              "notes": "Yep!"
+            },
+            {
+              "image": ["exeggcute.png"],
+              "pokemon": "Exeggcute",
+              "cp": "468",
+              "location": "Oracle Fountain",
+              "notes": "Yep!"
+            },
+            {
+              "image": ["butterfree_lost.png"],
+              "pokemon": "Butterfree",
+              "cp": "5??",
+              "location": "Oracle Fountain",
+              "notes": "Nope. It ate all my Pokéballs..."
+            },
+            {
+              "image": ["slowpoke.png"],
+              "pokemon": "Slowpoke",
+              "cp": "260",
+              "location": "Oracle Fountain",
+              "notes": "Nope. No more balls after ^"
+            },
+            {
+              "image": ["gastly.png"],
+              "pokemon": "Gastly",
+              "cp": "426",
+              "location": "Burlingame Starbucks",
+              "notes": "Yep! (spun some back)"
             }
           ]
         }

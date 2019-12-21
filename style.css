@@ -22,6 +22,7 @@ ul {
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
+	color: white;
 }
 
 /* individual section background images below */
@@ -32,3 +33,7 @@ ul {
 .day-3 {background-image: url("img/heros/RC_marina.jpg");}
 
 .day-4 {background-image: url("img/heros/");}
+
+.day-5 {background-image: url("img/heros/");}
+
+.day-6 {background-image: url("img/heros/");}

@@ -57,7 +57,7 @@ raw = Template("""<!DOCTYPE html>
         <section class="container">
             <div class="row">
             {% for n in s['notes'] %}
-                <div class="col-xs-12 col-md-6 col-lg-4 mb-4">
+                <div class="col-xs-12 col-md-6 col-xl-4 mb-4">
                     <div class="card">
                         {% if n.get('image') %}
                         <img class="card-img-top h-100" src="img/25_percent/{{ n['image'] }}" alt="two gyms">
