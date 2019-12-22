@@ -1,0 +1,31 @@
+{
+  "name": "riverhike",
+  "version": "1.0.0",
+  "description": "a website for travels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-martin/riverhike.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin-martin/riverhike/issues"
+  },
+  "homepage": "https://github.com/martin-martin/riverhike#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "gulp-image-data-uri": "^1.2.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
