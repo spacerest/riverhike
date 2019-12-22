@@ -1,0 +1,402 @@
+{
+  "header": {
+    "title": "Pokétour",
+    "time": "August 2016",
+    "subtitle": "Biking around the Bay, catching Pokémon",
+    "map": "poketour.gif",
+    "notes": [
+        {"text": "Pokémon GO mesmerized me. I didn't know that this was coming. One day I returned to Stanford campus from a hiking trip, and I saw a lot of people walking around with their mobile phones. Probably a task for new students to get to know the campus, I thought. It took me two days to figure out that it wasn't."},
+        {"text": "This was something else. Something new. It made people go out in small groups at night. They talked, they walked, and they had lots of fun! I wanted to get to know more."},
+        {"text": "When I was younger, I had been playing the Pokémon games, so also nostalgia worked into this. But here were new and interactive elements, and an impressive cultural impact. I installed the game and, after playing a bit, I decided that I want to understand better. I wanted to get more out of this."},
+        {"text": "So I made this plan to go on an adventure - in good old Pokémon style..."}
+      ]
+  },
+  "body": [
+    {
+     "hero": {
+       "title": "Preparations",
+       "background": "banner.jpg"
+     },
+      "notes": [
+        {"text": "Before leaving on the trip, I have practiced throws with Rattatas (en masse), done evolutions with Pidgeys, and got lucky when hatching two 10k eggs!"},
+        {"text": "I have a bike, and spacious side bags for all the balls and potions. I thought about my Route and how to keep my phone charged. Now I'm ready and excited to head out into the world :)"},
+        {"text": "I'll try to note down all the Pokémon that I'll hatch from eggs. Regarding those mons I catch, I'll only note the ones that I consider interesting for that specific day. Those that were defining for a section of my path, or those that I caught for the very first time."},
+        {"text": "Oak? Elm? Ahem... Willow?\n\nReady, set... GO! ; )"}
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Prep-Hatches",
+          "header": ["Image", "Pokémon", "CP"],
+          "content": [
+            {
+              "image": ["jynx.png"],
+              "pokemon": "Jynx",
+              "notes": "758"
+            },
+            {
+              "image": ["lapras.png"],
+              "pokemon": "Lapras",
+              "notes": "1200"
+            }
+          ]
+        },
+        "catches": {
+          "title": "(Notable) Prep-Catches",
+          "header": ["Tinyimage", "Pokémon", "Where?"],
+          "content": [
+            {
+              "image": ["lickitung.png"],
+              "pokemon": "Lickitung",
+              "notes": "Stanford's Y2E2 courtyard "
+            }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day 1 - Palo Alto to Redwood City",
+       "background": "banner.png"
+     },
+      "notes": [
+        {"text": "I'm sitting next to wide salt marshes off Redwood City, behind oleander bushes that separate my nightstay from the harbor road. It's night - both in the game as well as outside. I'll get some notes started here."},
+        {"text": "First of all: It's been quite fun so far! :) I'm basically just on a bike ride, but there's an additional layer to it through involving Pokémon Go. The game adds a small task that can be constantly there. But if I rather just want to look at the passing landscape, it's easy to turn it off."},
+        {"text": "Other things turn off less easily. I found out why there are official people sitting all day and all night at the train crossings:"},
+        {
+          "text": "<a href=\"http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/\" target=\"_blank\">Suicides</a>...\n: (",
+          "image": "suicide_prevention.png"
+        },
+        {"text":  "I enjoy being part of a Pokémon Go whatsapp group of some people from San Francisco. They all feel very nice and it's sweet to have some company, even if only remotley. Maybe the fact that it's remotely makes it even easier. Some wrote about interesting spawning grounds around the Bay, and I'll go ahead and sum up that information so I can adapt my route accordingly ->"},
+        {"text":  "<ul><li>Dolores Park (Aerodactyl)</li>\n<li>Golden Gate Park = GGP</li>\n<li>Land's End</li>\n<li>Beach Chalet</li>\n<li>Fort Mason (Presidio)</li>\n<li>Stow Lake (inside GGP) (Evee, Bulbasaur, Psyduck, Snorlax)</li>\n<li>Inner Sunset 11th Ave x Irving Street Corner (Gengar)</li>\n<li>Y2E2 Stanford Campus (Lickitung)</li>\n<li>Judah St x 38th St (Dragonite)</li>\n<li>Los Cerritos Community Center (Park): Fremont Dratini nest</li>\n<li>Embarcadero (Dratini)</li>\n<li>WALK: Ferry Building -> Fort Mason -> Beach Chalet (Dratinis, Bulbasaurs, Squirltes)</li>\n<li>Great Highway, La Play Street (Lapras)</li>\n<li>Castro x Liberty St. (Onix)</li>\n<li>Grand View Park, Sunset Neighborhood (Onix)</li>\n<li>Berkeley Marina (Lapras)</li>\n<li>Stern Grove (Abra)</li>\n<li>Lake Merced (Venusaur)</li>\n<li>Berkeley: Martin Luther King Jr. Way x Channing Way (Venusaur, Dragonite)</li></ul>"},
+        {"text":  "My thoughts at the end of the first day are, that there are moments when it actually feels like a little Pokémon adventure travel. When I approached the Redwood City Harbor area this evening, biking on that long path, the sun setting on my left and the large buildings shining green, I did feel like I imagine feeling in the game, approaching a new City. And man: I made it. I biked from one city on my map to the next one ; ) Wasn't necessarily the plan, but hei! it's cool with me."},
+        {"text":  "Another thought is, that catching Pokémon doesn't work very well like that. I mean, completing the Pokédex, getting many, getting specific ones, etc. The whole catching business. Because it still takes pretty long to get from one place to another, it's still hard to find specific mons with the three-steps around and Pokévision simply not showing many or any."},
+        {"text":  "So, primarily, it is a travel. And only secondarily it is a travel to catch Pokémon. It is still very integrated, the whole Go experience. I have the app running all the time and I check frequently. I have those people I am chatting with, and we talk about Pokémon. And I try (but didn't manage well) to utilize these other apps, to try to pinpoint where one really is and maybe end up finding interesting ones."},
+        {"text":  "So I biked. The sun was sweet and set during the evening for a very long time. Some special flowers were in bloom that gave off a very distinct smell that lingered in the air, together with cut grass. It might have been wild fennel, but really tall plants. People were walking in bunches in the evening, around the park, together, small kids with bikes, couples, and people alone were running. I wonder how is it possible that Americans are fat - they have going for a walk outside so established as a together-activity! I passed by some people talking about hatching eggs, and I find it really beautiful how pervasive the game is. That is one reason why I wanted to go on this trip. To look around and see it popping up here and there. It's making a real difference in people's lives. Suddenly people walk. Someone told me that he walked 40 miles in the past week! A week ago or so I heard some people saying \"Obama tries to do away with obesity, and then Pokémon Go comes out and it just solves within a few days...\" It's obviously overdone, but it's not so far from the truth. I believe it is a very nice example of positive influence."},
+        {"text":  "Also the groups formed, young kids together with their friends together with their older brother and their friends. Little groups walking around together catching Pokémon. Outside. Awesome! And families together. Parents playing with their kids. And couples taking walks. And also people alone. Middle aged men, women, young boys in two, girl groups... everyone is playing! It's quite impressive, it is."},
+        {"text":  "Okay, that are just some thoughts..."},
+        {"text":  "Another thing I want to note, is that hatching works pretty well. Catching not really, but hatching does. I hatched today already 5 Pokémon on the first day of the trip. While most of them weren't too interesting, one was actually a Scyther. Yay! : ) I bike slowly, and the game counts my steps, or most of it at least. So eggies hatch. It's cool! Except that now I only have one incubator, so it'll slow down considerably. But okay. I have many more miles to roll!"},
+        {"text":  "Day 1. Pretty views. An Evee at the Oval. A Slowbro around Facebook. The smell of wild Fennel. White crusts on the salt marshes. Normal outdoor Americans. The road to Redwood City Harbor. My sitting spot my sleeping spot. A skunk that just walks by. Planes flying, sky graying, trains honking, loading stones. Me here, finally out. Finally moving, and on the road again. My bike my helmet my sleeping bag and me. Time to say good night. Good night. : )"}
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": ["Image", "Pokémon", "CP"],
+          "content": [
+            {
+              "image": ["rattata.png"],
+              "pokemon": "Rattata",
+              "notes": "313"
+            },
+            {
+              "image": ["nidoran_f.png"],
+              "pokemon": "Nidoran female",
+              "notes": "487"
+            },
+            {
+              "image": ["pidgey.png"],
+              "pokemon": "Pidgey",
+              "notes": "?"
+            },
+            {
+              "image": ["scyther.png"],
+              "pokemon": "Scyther",
+              "notes": "1152"
+            },
+            {
+              "image": ["krabby.png"],
+              "pokemon": "Krabby",
+              "notes": "433"
+            }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": ["Tinyimage", "Pokémon", "CP", "Where?", "Caught?"],
+          "content": [
+            {
+              "image": ["eevee.png"],
+              "pokemon": "Evee (nicknamed #1, because\nit's the first catch on the trip)",
+              "cp": "293",
+              "location": "the Oval",
+              "result": "Yep!"
+            },
+            {
+              "image": ["seel.png"],
+              "pokemon": "Seel",
+              "cp": "569",
+              "location": "a Palo Alto park",
+              "result": "Yep!"
+            },
+            {
+              "image": ["slowpoke.png"],
+              "pokemon": "Slowpoke",
+              "cp": "524",
+              "location": "Facebook HQ",
+              "result": "Yep!"
+            },
+            {
+              "image": ["kabuto.png"],
+              "pokemon": "Kabuto",
+              "cp": "?",
+              "location": "among the nice smells and the sea",
+              "result": "Nope."
+            }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "Day 2 - Redwood City ~~~ Pacifica",
+       "background": "RC_marina.jpg"
+     },
+      "notes": [
+        {"text": "Started to experience that it can be quite fun to gym-battle against someone. You don't usually know who it is. Or if it's the same person. Or even how many. It feels as if there is this one foe, and you battle and try. Finally you win the gym, then you lose it again. And this can go over and over again.\nBut maybe it's a bunch of different people. Every time someone new. In the end it doesn't matter. You have this tiny competition going, and after all it's just about picking up those 10 gold coins every day. But hei: Today I got 20! Boosted two of my stronger Pokemon and took two gyms that were close to each other. Then be fast:\nCollect.\nYay."},
+        {
+          "text": "my two gyms that I managed to hold together and gain some virtual money\n\nnext picture shows the spot in reality",
+          "image": "two_gyms.jpg"
+        },
+        {
+          "text": "",
+          "image": "first_double_gym_win_spot.png"
+        },
+        {"text": "There's this thing about Pokémon, that was also in a way present in the Gamboy games - that there are these few strong mons that it makes sense to have and train (or feed, in the case of GO). Therefore it ends up being a rather boring selection of always the same Pokémon hovering above the gym towers."},
+        {"text": "Today I also started using the Pokéradar - in order to then walk and look for a specific mon. It was fun! I got a Kabuto like that, and the funnest part was pedaling fast towards a Kingler... I knew my chances to be there on time were slim, and indeed it had vanished before I arrived. Hm... I was thinking that this travel is so far a very slow one, and maybe it is actually a Pokémon travel : )"},
+        {"text": "I had an intense battle with a Butterfree in front of the Oracle fountain (and their hovering Katamaran). Butterfree had 500something CP and was very stubborn about going to live inside a ball. I offered him loads of them. Different ones. Red-white ones, blue-red ones, and even quite a bunch of black-yellow ones! He checked a few of them out from the inside, but declined every single time. In the end I ran out of offers and he just disappeard. Belly full of Razzberries.\nThere is no such thing as a free Butterfree."},
+        {
+          "text": "Caught: 0",
+          "image": "butterfree_s.jpg"
+        },
+        {
+          "text": "",
+          "image": "noball.jpg"
+        },
+        {"text": "<- Consequences of overspending..."},
+        {"text": "A stopover in a Starbucks brought me to witness the little circle of old men meeting there. When one plus arrived I tried to make space, and so we got to talk a bit. Turns out three of five spoke German. Before I left I got a Starbucks gift card from one of the men... \"So that you remember this place\" : )"},
+        {"text": "Up on one Vista Point.\nSan Francisco in the distance.\nI trained one Pidgeot-held gym up to Lv 3. I then assign a mon before I leaving, and learned that this counts towards the rewards pickup."},
+        {"text": "It's funny how I expect everyone I see with a phone to be playing too. A guy in a white car looked at me suspiciously, and I thought \"aha!\".\nA little later I saw him inhaling drugs from a balloon.\nI guess not everyone is actually playing. : /"},
+        {"text": "Up on one Vista Point.\nSan Francisco in the distance.\nI trained one Pidgeot-held gym up to Lv 3. I then assign a mon before I leaving, and learned that this counts towards the rewards pickup."},
+        {"text": "Another thing about this place here, and I feel like generalizing it to \"US-Americans\", is that people enjoy their Vista Points from within their cars.\nCome, park, watch, (inhale,) drive forward.\nMore people came, but only two older ladies ever left their car. They went to the bench and the younger helped the older one light a cigarette.\nInhale.\nDrive forward."},
+        {"text": "I went astray. Up towards the water reservoirs - and back down without ever getting there. Didn't really take care for directions and ended up doing a hilly-loop drive. I don't mind. It was good and completely worth it!"},
+        {"text": "Worth it because I found the Guittard chocolate factory in Milbrae. I found it in the best possible way: smelling the chocolate being made, tasting it out of the air! I love it when such good smells linger suspended, and it makes me unsure where the borders lie between tasting and smelling."},
+        {"text": "The Guittard chocolate factory does not, so I found out, sell chunks of broken chocolate at the factory. But the ladies were friendly and when she asked me what darkness of chocolate I like, I realized that I won't be leaving with empty hands after all.\nI like it dark."},
+        {
+          "text": "",
+          "image": "chocolate.jpg"
+        },
+        {
+          "text": "",
+          "image": "known_views.jpg"
+        },
+        {"text": "Cute! Some old roads, from when i first arrived... A same view, but coming from the other side. I biked up to the second reservoir.\nMemories of getting my first Clif bar as a present from a friendly ranger :D"},
+        {"text": "It was pretty intense to see how the world suddenly plunged from hot and dry and sunny, into cold and wet and foggy. Without much movement or time change. The clouds I would often see plunging across the hills towards the Bay in the evening. Today I was within them. Winds blow strongly, an unknown wetness sweeps through your hair, and the sunshine hides away behind layers of suspended waterdrops."},
+        {
+          "text": "So wet!!",
+          "image": "pacifica_fog.jpg"
+        },
+        {"text": "Pacifica made me dress up all those clothes I thought I'd never need again..."}
+      ],
+      "tables": {
+        "hatches": {
+          "title": "Hatches",
+          "header": ["Image", "Pokémon", "CP"],
+          "content": [
+            {
+              "image": ["weedle.png"],
+              "pokemon": "Weedle",
+              "cp": "233"
+            },
+            {
+              "image": ["paras.png"],
+              "pokemon": "Paras",
+              "cp": "502"
+            },
+            {
+              "image": ["voltorb.png"],
+              "pokemon": "Voltorb",
+              "cp": "467"
+            },
+            {
+              "image": ["weedle.png"],
+              "pokemon": "Weedle",
+              "cp": "234"
+            },
+            {
+              "image": ["weedle.png"],
+              "pokemon": "Weedle",
+              "cp": "237"
+            }
+          ]
+        },
+        "catches": {
+          "title": "Catches",
+          "header": ["Tinyimage", "Pokémon", "CP", "Where?", "Caught?"],
+          "content": [
+            {
+              "image": ["poliwag.png"],
+              "pokemon": "Poliwag",
+              "cp": "233",
+              "location": "Redwood Houseboat Harbor",
+              "notes": "Yep!"
+            },
+            {
+              "image": ["kabuto.png"],
+              "pokemon": "Kabuto",
+              "cp": "560",
+              "location": "Redwood Houseboat Harbor",
+              "notes": "Yep!"
+            },
+            {
+              "image": ["exeggcute.png"],
+              "pokemon": "Exeggcute",
+              "cp": "468",
+              "location": "Oracle Fountain",
+              "notes": "Yep!"
+            },
+            {
+              "image": ["butterfree_lost.png"],
+              "pokemon": "Butterfree",
+              "cp": "5??",
+              "location": "Oracle Fountain",
+              "notes": "Nope. It ate all my Pokéballs..."
+            },
+            {
+              "image": ["slowpoke.png"],
+              "pokemon": "Slowpoke",
+              "cp": "260",
+              "location": "Oracle Fountain",
+              "notes": "Nope. No more balls after ^"
+            },
+            {
+              "image": ["gastly.png"],
+              "pokemon": "Gastly",
+              "cp": "426",
+              "location": "Burlingame Starbucks",
+              "notes": "Yep! (spun some back)"
+            }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "",
+       "background": ""
+     },
+      "notes": [
+        {
+          "text": "",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "",
+          "header": [],
+          "content": [
+            {
+              "image": [],
+              "pokemon": "",
+              "notes": ""
+            }
+          ]
+        },
+        "catches": {
+          "title": "",
+          "header": [],
+          "content": [
+            {
+              "image": [],
+              "pokemon": "",
+              "notes": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "",
+       "background": ""
+     },
+      "notes": [
+        {
+          "text": "",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "",
+          "header": [],
+          "content": [
+            {
+              "image": [],
+              "pokemon": "",
+              "notes": ""
+            }
+          ]
+        },
+        "catches": {
+          "title": "",
+          "header": [],
+          "content": [
+            {
+              "image": [],
+              "pokemon": "",
+              "notes": ""
+            }
+          ]
+        }
+      }
+    },
+    {
+     "hero": {
+       "title": "",
+       "background": ""
+     },
+      "notes": [
+        {
+          "text": "",
+          "image": ""
+        },
+        {
+          "text": "",
+          "image": ""
+        }
+      ],
+      "tables": {
+        "hatches": {
+          "title": "",
+          "header": [],
+          "content": [
+            {
+              "image": [],
+              "pokemon": "",
+              "notes": ""
+            }
+          ]
+        },
+        "catches": {
+          "title": "",
+          "header": [],
+          "content": [
+            {
+              "image": [],
+              "pokemon": "",
+              "notes": ""
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

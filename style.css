@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Pokemon";
-	src: url("../font/pokemon_gb.ttf");
+	src: url("font/pokemon_gb.ttf");
 }
 
 body {
@@ -11,12 +11,10 @@ body {
 	border: 6px double black;
 }
 
-/*.card-title {*/
-/*	text-align: center;*/
-/*}*/
+table img { width: 60px; }
 
 ul {
-	list-style-image: url("../img/pokeball-bullet-point.png");
+	list-style-image: url("img/pokeball-bullet-point.png");
 }
 
 .jumbotron {  /* general code to allow for full-width background images with text on top (hero) */
@@ -24,10 +22,18 @@ ul {
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
+	color: white;
 }
 
 /* individual section background images below */
-.day-3 {
-	background-image: url("../img/25_percent/mori_point_whales.jpg");
-	color: white;
-}
+.day-1 {background-image: url("img/heros/banner.jpg");}
+
+.day-2 {background-image: url("img/heros/banner.png");}
+
+.day-3 {background-image: url("img/heros/RC_marina.jpg");}
+
+.day-4 {background-image: url("img/heros/");}
+
+.day-5 {background-image: url("img/heros/");}
+
+.day-6 {background-image: url("img/heros/");}
