@@ -51,8 +51,8 @@ gulp.task('copyjs', function () {
 
 gulp.task('setup', gulp.series('copyscss', 'copyjs', 'sass'));
 
-gulp.task('prepare', function() {
-    gulp.src('./images/*')
+gulp.task('prepare-data-uri', function() {
+    return gulp.src('./img/*.png')
         .pipe(imageDataURI()) 
         .pipe(gulp.dest('./dist'));
 });
